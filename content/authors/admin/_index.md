@@ -29,9 +29,9 @@ organizations:
 profiles:
   - icon: at-symbol
     url: "mailto:2022302041007@whu.edu.cn"
-    label: E-mail Me
+    label: Click to E-mail Me
   - icon: brands/weixin
-    label: CACPAest_2021Founder
+    label: WeChat: CACPAest_2021Founder
 
 
 interests:
@@ -80,33 +80,27 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Experiment Skills
+  - name: Academic Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Experiment Skills
+        description: Prokaryotic expression system construction and related experimental skills; Basic cell culture experimental skills; Fundamental animal experimental skills;Biochemical and genetic experimental skills
+      - name: Information and Data Processing
+        description: Proficient in the use of various bioinformatics databases; Construction of phylogenetic trees using ClustalX, utilization of SnapGene software, plasmid design, and primer design; Programming in C language;Data processing and chart plotting using Origin
+      - name: Language:
+        description: TOFEL 97; Excellent oral expression, writing, and translation skills
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Music
         description: ''
         percent: 80
         icon: camera
