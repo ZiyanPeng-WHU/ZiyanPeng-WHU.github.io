@@ -137,7 +137,7 @@ awards:
     date: '2024-08-10'
     awarder: Division of Synthetic Biology Chinese Society of Biotechnology
     summary: |
-    My Attribution: Conducted extensive literature review and project background research; Participated in final presentation and defense.
+      My Attribution: Conducted extensive literature review and project background research; Participated in final presentation and defense.
       Learned:
       - Applications of synthetic biology in conservation
       - Improvement in literature search and intergration
