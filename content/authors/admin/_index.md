@@ -82,12 +82,18 @@ work:
 skills:
   - name: Academic Skills
     items:
-      - name: Experiment Skills
-        description: Prokaryotic expression system construction and related experimental skills; Basic cell culture experimental skills; Fundamental animal experimental skills;Biochemical and genetic experimental skills
+      - name: Wet Lab Experiment Skills
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: Information and Data Processing
-        description: Proficient in the use of various bioinformatics databases; Construction of phylogenetic trees using ClustalX, utilization of SnapGene software, plasmid design, and primer design; Programming in C language;Data processing and chart plotting using Origin
-      - name: Language:
-        description: TOFEL 97; Excellent oral expression, writing, and translation skills
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Language
+        description: ''
+        percent: 40
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
