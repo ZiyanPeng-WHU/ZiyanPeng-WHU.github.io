@@ -31,8 +31,7 @@ profiles:
     url: "mailto:2022302041007@whu.edu.cn"
     label: E-mail Me
   - icon: brands/weixin
-    url: uploads/weixin.jpg
-    label: Scan the code
+    label: CACPAest_2021Founder
 
 
 interests:
