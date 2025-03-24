@@ -30,8 +30,6 @@ profiles:
   - icon: at-symbol
     url: "mailto:2022302041007@whu.edu.cn"
     label: Click to E-mail Me
-  - icon: brands/weixin
-    label: WeChat: CACPAest_2021Founder
 
 
 interests:
