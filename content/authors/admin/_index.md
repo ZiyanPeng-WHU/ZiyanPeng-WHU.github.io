@@ -23,18 +23,12 @@ role: Wuhan University
 organizations:
   - name: College of Life Sciences
     url: https://bio.whu.edu.cn/
-  - E-mail: 2022302041007@whu.edu.cn
-  - Weixin: CACPAest_2021Founder
-  - Phone: (+86)187 7713 0669
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    <p>E-mail: 2022302041007@whu.edu.cn</p>
-    label: E-mail Me
-  - icon: brands/weixin
-    <p>Weixin: CACPAest_2021Founder</p>
+  -  <p>E-mail: 2022302041007@whu.edu.cn</p>
+  - <p>Weixin: CACPAest_2021Founder</p>
   - <p>Phone: (+86)187 7713 0669</p>
 
 
