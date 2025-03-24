@@ -28,10 +28,11 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    text: |
-      <p>E-mail: 2022302041007@whu.edu.cn</p>
-      <p>Weixin: CACPAest_2021Founder</p>
-      <p>Phone: (+86)187 7713 0669</p>
+    test: <p>E-mail: 2022302041007@whu.edu.cn</p>
+    label: E-mail Me
+  - icon: brands/weixin
+    test: <p>Weixin: CACPAest_2021Founder</p>
+  - test: <p>Phone: (+86)187 7713 0669</p>
 
 
 interests:
