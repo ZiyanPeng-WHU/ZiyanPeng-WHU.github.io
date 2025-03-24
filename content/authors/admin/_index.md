@@ -17,11 +17,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: College of Life Sciences
+role: Wuhan University 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Wuhan University
+  - name: College of Life Sciences
     url: https://bio.whu.edu.cn/
 
 # Social network links
@@ -37,7 +37,7 @@ profiles:
 
 interests:
   - Tumor Biology (Pancreatic cancer)
-  - Neurobiology (schizophrenia, MDD, etc.)
+  - Neurobiology (Schizophrenia, MDD, etc.)
   - Synthetic Biology
 
 education:
