@@ -32,8 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/weixin
     url: CACPAest_2021Founder
-  - icon: Call
-    url: +86 187 7713 0669
+
 
 interests:
   - Tumor Biology (Pancreatic cancer)
@@ -43,8 +42,8 @@ interests:
 education:
   - area: BSc Biology Science
     institution: Wuhan University
-    date_start: 2022-09
-    date_end: 2026-07
+    date_start: 2022-09-01
+    date_end: 2026-07-01
     summary: |
       GPA: 3.6/4.0
       
