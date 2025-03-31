@@ -95,7 +95,7 @@ skills:
     items:
       - name: Wet Lab Experiment Skills
         description: 'Basic experiment skills including Biochemical,Genetic& Cell biological experiment, Anatomy experiment, etc.'
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Information and Data Processing
         description: 'Usage of biological database & apps; C Language; graphic making, etc.'
@@ -103,8 +103,17 @@ skills:
         icon: chart-bar
       - name: Language
         description: 'English & Chinese'
-        percent: 40
+        percent: 100
         icon: circle-stack
+hobbies:
+  - name: Hobbies
+    items:
+      - name: Music
+        percent: 100
+      - name: Reading
+        percent: 100
+      - name: Badminton
+        percent: 100
    
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -131,6 +140,20 @@ awards:
   - title: 'Second Prize at the University Level, 2023 FLTRP National English Competition for College Students'
     date: '2023-12-14'
     awarder: Wuhan University
+
+languages:
+  - test: "TOEFL"
+    total: 97
+    sections:
+      - name: "Reading"
+        score: 26
+      - name: "Listening"
+        score: 28
+      - name: "Speaking"
+        score: 23
+      - name: "Writing"
+        score: 25
+  
 ---
 
 ## About Me
