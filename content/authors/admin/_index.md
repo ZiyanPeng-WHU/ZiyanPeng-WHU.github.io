@@ -108,17 +108,19 @@ skills:
 
 
 languages:
-  - test: "TOEFL"
-    total: 97
-    sections:
-      - name: "Reading"
-        score: 28
-      - name: "Listening"
-        score: 21
-      - name: "Speaking"
-        score: 23
-      - name: "Writing"
-        score: 25
+  - name: Language
+    description: 'English & Chinese'
+    percent: 40
+  - name: Language
+    description: 'English & Chinese'
+    percent: 40
+  - name: Language
+    description: 'English & Chinese'
+    percent: 40
+  - name: Language
+    description: 'English & Chinese'
+    percent: 40
+   
 
 # Awards.
 #   Add/remove as many awards below as you like.
