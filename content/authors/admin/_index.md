@@ -51,6 +51,7 @@ education:
       - Zoology theory&experiment(91/90)
       - Development Biology of Animals(90)
       - Biochemistry, Genetics, Tumor Biology
+
 work:
   - position: "Intestide": Building a safe, robust, and long-acting short peptide drug delivery system in the intestine.
     company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
