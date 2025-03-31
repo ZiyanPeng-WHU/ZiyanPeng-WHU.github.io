@@ -114,6 +114,7 @@ hobbies:
         percent: 100
       - name: Badminton
         percent: 100
+
    
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -142,18 +143,10 @@ awards:
     awarder: Wuhan University
 
 languages:
-  - test: "TOEFL"
-    total: 97
-    sections:
-      - name: "Reading"
-        score: 26
-      - name: "Listening"
-        score: 28
-      - name: "Speaking"
-        score: 23
-      - name: "Writing"
-        score: 25
-  
+  -name: English
+  percent: 85
+  -name: Chinese
+  percent: 100 
 ---
 
 ## About Me
