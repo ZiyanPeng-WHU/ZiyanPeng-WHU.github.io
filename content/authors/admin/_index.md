@@ -91,7 +91,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Academic Skills(See more in my cv)
+  - name: Academic Skills(See more in my CV)
     items:
       - name: Wet Lab Experiment Skills
         description: 'Basic experiment skills including Biochemical,Genetic& Cell biological experiment, Anatomy experiment, etc.'
@@ -108,16 +108,17 @@ skills:
 
 
 languages:
-    - name: TOFEL(97)
-      percent: 80
-    - name: Reading
-      percent: 87
-    - name: Listening 
-      percent: 93
-    - name: Speaking
-      percent: 100
-    - name: Writing
-      percent: 100
+  - test: "TOEFL"
+    total: 97
+    sections:
+      - name: "Reading"
+        score: 28
+      - name: "Listening"
+        score: 21
+      - name: "Speaking"
+        score: 23
+      - name: "Writing"
+        score: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
