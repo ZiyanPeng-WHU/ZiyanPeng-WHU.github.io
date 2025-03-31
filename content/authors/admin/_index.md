@@ -105,19 +105,7 @@ skills:
         description: 'English & Chinese'
         percent: 40
         icon: circle-stack
-
-
-languages:
-  - name: Language
-    percent: 40
-  - name: Language
-    percent: 40
-  - name: Language
-    percent: 40
-  - name: Language
-    percent: 40
    
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
