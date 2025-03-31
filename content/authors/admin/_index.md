@@ -108,12 +108,11 @@ skills:
 
 
 languages:
-  TOFEL:
+    - name: TOFEL(97)
+      percent: 80
     - name: Reading
-      score: 26
       percent: 87
     - name: Listening 
-      score:28
       percent: 93
     - name: Speaking
       percent: 100
