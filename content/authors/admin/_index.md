@@ -34,7 +34,7 @@ profiles:
 
 interests:
   - Tumor Biology (Pancreatic cancer)
-  - Neurobiology (Schizophrenia, MDD, etc.)
+  - Epigenetics
   - Synthetic Biology
 
 education:
@@ -52,67 +52,68 @@ education:
       - Development Biology of Animals(90)
       - Biochemistry, Genetics, Tumor Biology
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: "Intestide": Building a safe, robust, and long-acting short peptide drug delivery system in the intestine.
+    company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-12-01
+    date_end: 2024-10-26
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Project proposer
+      - Wet lab group core member (mainly responsible for experiment of Adhesion module)
+      - Human Practice group core member
+      - Project presentation and defense
+  - position: Research on the Protein Degradation Mechanism in Sperm Development
+    company_name: Supervised by Research Professor Kai Liu
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-10-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Dry lab: Plasmid design and codon optimization.
+      - Wet lab: Experiment design, construction of prokaryotic expression systems for ¦Á4 and ¦Á4S proteins (antigens), induction and expression; protein purification and validation; antibody validation and purification.
+  - position: "Carbon diLOCKside": Engineering a Synergistic Bacterial System with Urease and Carbonic Anhydrase for High-Calcium Wastewater Treatment
+    company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: 2024-08-07
+    summary: |2-
+      Responsibilities include:
+      - Literature review and project background research
+      - Presentation and defense
+      - Core optimization tasks
+ 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Academic Skills
+  - name: Academic Skills(See more in my cv)
     items:
       - name: Wet Lab Experiment Skills
-        description: ''
+        description: 'Basic experiment skills including Biochemical,Genetic& Cell biological experiment, Anatomy experiment, etc.'
         percent: 80
         icon: code-bracket
       - name: Information and Data Processing
-        description: ''
+        description: 'Usage of biological database & apps; C Language; graphic making, etc.'
         percent: 100
         icon: chart-bar
       - name: Language
-        description: ''
+        description: 'English & Chinese'
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Badminton
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Reading
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Music
-        description: ''
-        percent: 80
-        icon: camera
 
-languages:
-  - name: English
+
+languages:TOFEL:
+  - name: Reading:
     percent: 100
-  - name: Chinese
+  - name: Listening:
+    percent: 100
+  - name: Speaking:
+    percent: 100
+  - name: Writing:
     percent: 100
 
 # Awards.
@@ -124,26 +125,21 @@ awards:
     url: https://jamboree.igem.org/2024/results
     date: '2024-10-26'
     awarder: iGEM Foundation
-    summary: |
-      My Attribution: Project proposer, core member of the wet lab team (responsible for the Adhesion module's experimental design and implementation), project presentation and defense.
-      Learned:
-      - Wet lab skills in synthetic biology
-      - Modular construction of biological circuits
-      - Presentation and communication skills (in English)
-      - Understand synthetic biology's real-life applications
-      - Gain knowledge about gut bacteria, short peptides and diabetes through interviews with professors and doctors   
   - title: 2024 SynBio Challenges Silver Award (Top 5 contributor)
     url: http://www.isynbio-talk.cn/#/video/video-info/513
     date: '2024-08-10'
     awarder: Division of Synthetic Biology Chinese Society of Biotechnology
-    summary: |
-      My Attribution: Conducted extensive literature review and project background research; Participated in final presentation and defense.
-      Learned:
-      - Applications of synthetic biology in conservation
-      - Improvement in literature search and intergration
-      - Knowledge about biological carbon dioxide processing 
   - title: 'Wuhan University Outstanding Student Scholarship (2023-2024)'
     date: '2024-10-14'
+    awarder: Wuhan University
+  - title: 'Second Prize in the Plant Category, 6th Specimen-Making Competition(Specimen archived in the university's specimen museum)'
+    date: '2023-07-14'
+    awarder: Wuhan University
+  - title: 'Third Prize at the School Level, Hubei Provincial College Students' Biological Experiment Skills Competition'
+    date: '2024-09-21'
+    awarder: Wuhan University
+  - title: 'Second Prize at the University Level, 2023 FLTRP National English Competition for College Students'
+    date: '2023-12-14'
     awarder: Wuhan University
 ---
 
