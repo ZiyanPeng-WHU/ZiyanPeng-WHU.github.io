@@ -109,16 +109,12 @@ skills:
 
 languages:
   - name: Language
-    description: 'English & Chinese'
     percent: 40
   - name: Language
-    description: 'English & Chinese'
     percent: 40
   - name: Language
-    description: 'English & Chinese'
     percent: 40
   - name: Language
-    description: 'English & Chinese'
     percent: 40
    
 
