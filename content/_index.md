@@ -38,8 +38,11 @@ sections:
         I always propose projects or subjects in research teams, and I love sharing creative ideas with others!
 
         Please feel free to contact me by following methods 😃
+        
         E-mail: 2022302041007@whu.edu.cn
+        
         Tel: (+86)187 7713 0669
+        
         WeChat: CACPAest_2021Founder
         
     design:
