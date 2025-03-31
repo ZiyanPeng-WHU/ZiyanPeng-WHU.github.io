@@ -53,7 +53,7 @@ education:
       - Biochemistry, Genetics, Tumor Biology
 
 work:
-  - position: 'Intestide\: Building a safe, robust, and long-acting short peptide drug delivery system in the intestine.'
+  - position: 'Building a safe, robust, and long-acting short peptide drug delivery system in the intestine.(Intestide)'
     company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
     company_url: ''
     company_logo: ''
@@ -75,7 +75,7 @@ work:
       Responsibilities include:
       - Dry lab: Plasmid design and codon optimization.
       - Wet lab: Experiment design, construction of prokaryotic expression systems for ¦Á4 and ¦Á4S proteins (antigens), induction and expression; protein purification and validation; antibody validation and purification.
-  - position: 'Carbon diLOCKside\: Engineering a Synergistic Bacterial System with Urease and Carbonic Anhydrase for High-Calcium Wastewater Treatment'
+  - position: 'Engineering a Synergistic Bacterial System with Urease and Carbonic Anhydrase for High-Calcium Wastewater Treatment(Carbon diLOCKside)'
     company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
     company_url: ''
     company_logo: ''
