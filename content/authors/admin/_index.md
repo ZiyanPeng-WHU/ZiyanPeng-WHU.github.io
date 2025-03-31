@@ -105,15 +105,28 @@ skills:
         description: 'English & Chinese'
         percent: 100
         icon: circle-stack
-hobbies:
   - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Music
+        description: ''
         percent: 100
-      - name: Reading
+        icon: cat
+      - name: Drawing
+        description: ''
         percent: 100
+        icon: camera
       - name: Badminton
+        description: ''
         percent: 100
+        icon: person-simple-walk
+
+languages:
+  - name: English
+    percent: 85
+  - name: Chinese
+    percent: 100
 
    
 # Awards.
@@ -141,12 +154,6 @@ awards:
   - title: 'Second Prize at the University Level, 2023 FLTRP National English Competition for College Students'
     date: '2023-12-14'
     awarder: Wuhan University
-
-languages:
-  -name: English
-  percent: 85
-  -name: Chinese
-  percent: 100 
 ---
 
 ## About Me
