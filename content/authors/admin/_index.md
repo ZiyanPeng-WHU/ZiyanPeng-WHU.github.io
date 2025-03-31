@@ -105,22 +105,26 @@ skills:
         description: 'English & Chinese'
         percent: 100
         icon: circle-stack
-  - name: Hobbies
+  - name: TOEFL Scores
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Music
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Drawing
-        description: ''
-        percent: 100
-        icon: camera
-      - name: Badminton
-        description: ''
-        percent: 100
-        icon: person-simple-walk
+      - name: Reading
+        description: '26'
+        percent: 87
+        icon: chart-bar
+      - name: Listening
+        description: '28'
+        percent: 93
+        icon: chart-bar
+      - name: Speaking
+        description: '23'
+        percent: 77
+        icon: chart-bar
+      - name: Writing
+        description: '25'
+        percent: 83
+        icon: chart-bar
 
 languages:
   - name: English
