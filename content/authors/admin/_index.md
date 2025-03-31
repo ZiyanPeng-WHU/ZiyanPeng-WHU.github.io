@@ -107,7 +107,7 @@ skills:
         icon: circle-stack
 
 
-languages:TOFEL:
+languages:TOFEL:97
   - name: Reading:
     percent: 100
   - name: Listening:
