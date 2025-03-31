@@ -58,19 +58,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-disableKinds:
-  - "event"
-  - "project" 
-  - "publication"
-  - "teaching"
-
-widgets:
-  home:
-    - bio
-    - news
-    - experience
-    # - events
-    # - projects
-    # - publications
-    # - teaching
