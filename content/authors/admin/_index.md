@@ -33,7 +33,7 @@ profiles:
 
 
 interests:
-  - Tumor Biology (Pancreatic cancer)
+  - Tumor Biology (especially Pancreatic cancer)
   - Epigenetics
   - Synthetic Biology
 
@@ -53,7 +53,7 @@ education:
       - Biochemistry, Genetics, Tumor Biology
 
 work:
-  - position: Intestide--Building a safe, robust, and long-acting short peptide drug delivery system in the intestine.
+  - position: <i>Intestide</i>--Building a safe, robust, and long-acting short peptide drug delivery system in the intestine
     company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
     company_url: ''
     company_logo: ''
@@ -75,7 +75,7 @@ work:
       Responsibilities include:
       - Dry lab: Plasmid design and codon optimization.
       - Wet lab: Experiment design, construction of prokaryotic expression systems for PSMA7 and PSMA8 proteins (antigens), induction and expression; protein purification and validation; antibody validation and purification.
-  - position: Carbon diLOCKside--Engineering a Synergistic Bacterial System with Urease and Carbonic Anhydrase for High-Calcium Wastewater Treatment
+  - position: <i>Carbon diLOCKside</i>--Engineering a Synergistic Bacterial System with Urease and Carbonic Anhydrase for High-Calcium Wastewater Treatment
     company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
     company_url: ''
     company_logo: ''
@@ -158,4 +158,5 @@ awards:
 
 ## About Me
 
-Ziyan Peng is a Bachelor of Biology Science in Wuhan University. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Ziyan Peng, an undergraduate student majoring in Biology at Wuhan University. As the project proposer of our project,<i>Intestide</i>, I conducted synthetic biology research in our college's iGEM team. Currently, I'm interning at Prof. Kai Liu's lab, focusing on the protein degradation mechanisms in sperm development. The research I've participated in involves but is not confined to the aspects of synthetic biology, biological engineering, and protein-protein interactions, and I aspire to apply all the knowledge and skills I've learned to address real-world challenges, such as the mechanism, diagnosis, and therapeutics of cancer. 
+
