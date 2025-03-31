@@ -32,14 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Contact me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I always propose projects or subjects in research teams, and I love sharing creative ideas with others!
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Please feel free to contact me by following methods 😃
+        E-mail: 2022302041007@whu.edu.cn
+        Tel: (+86)187 7713 0669
+        WeChat: CACPAest_2021Founder
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
