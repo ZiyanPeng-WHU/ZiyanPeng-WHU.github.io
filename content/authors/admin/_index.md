@@ -53,7 +53,7 @@ education:
       - Biochemistry, Genetics, Tumor Biology
 
 work:
-  - position: Building a safe, robust, and long-acting short peptide drug delivery system in the intestine.(Intestide)
+  - position: Intestide--Building a safe, robust, and long-acting short peptide drug delivery system in the intestine.
     company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
     company_url: ''
     company_logo: ''
@@ -74,8 +74,8 @@ work:
     summary: |2-
       Responsibilities include:
       - Dry lab: Plasmid design and codon optimization.
-      - Wet lab: Experiment design, construction of prokaryotic expression systems for ¦Á4 and ¦Á4S proteins (antigens), induction and expression; protein purification and validation; antibody validation and purification.
-  - position: Engineering a Synergistic Bacterial System with Urease and Carbonic Anhydrase for High-Calcium Wastewater Treatment(Carbon diLOCKside)
+      - Wet lab: Experiment design, construction of prokaryotic expression systems for PSMA7 and PSMA8 proteins (antigens), induction and expression; protein purification and validation; antibody validation and purification.
+  - position: Carbon diLOCKside--Engineering a Synergistic Bacterial System with Urease and Carbonic Anhydrase for High-Calcium Wastewater Treatment
     company_name: Supervised by Prof. Zhixiong Xie & Associate Research Professor Lei Bai
     company_url: ''
     company_logo: ''
@@ -122,10 +122,10 @@ awards:
   - title: 'Wuhan University Outstanding Student Scholarship (2023-2024)'
     date: '2024-10-14'
     awarder: Wuhan University
-  - title: 'Second Prize in the Plant Category, 6th Specimen-Making Competition(Specimen archived in the university's specimen museum)'
+  - title: 'Second Prize in the Plant Category, 6th Specimen-Making Competition(Specimen archived in the specimem museum of Wuhan university)'
     date: '2023-07-14'
     awarder: Wuhan University
-  - title: 'Third Prize at the School Level, Hubei Provincial College Students' Biological Experiment Skills Competition'
+  - title: 'Third Prize at the School Level, Hubei Provincial Biological Experiment Skills Competition for College Students'
     date: '2024-09-21'
     awarder: Wuhan University
   - title: 'Second Prize at the University Level, 2023 FLTRP National English Competition for College Students'
